@@ -1,0 +1,25 @@
+SMAP
+pollhome_jsp.java
+JSP
+*S JSP
+*F
++ 0 pollhome.jsp
+poll/pollhome.jsp
++ 1 navbar.jsp
+poll/../nav-sidebar/navbar.jsp
++ 2 sidebar.jsp
+poll/../nav-sidebar/sidebar.jsp
+*L
+5,37:52
+1#1,62:89
+41#0:151
+1#2,40:152
+41,27:193
+67,4:220
+71:224,3
+72:227
+73:228,5
+74:233,3
+75,38:236
+42#0,259:274
+*E

@@ -1,0 +1,10 @@
+SMAP
+createpoll_jsp.java
+JSP
+*S JSP
+*F
++ 0 createpoll.jsp
+poll/createpoll.jsp
+*L
+1,482:44
+*E

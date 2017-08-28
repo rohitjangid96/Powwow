@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/controller/FacultyRegisterController.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>29</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="POWWOW">
+            <file>file:/C:/Users/Lenovo1/Documents/NetBeansProjects/POWWOW%2030-4-2017/POWWOW/src/java/dao/questionanswerdao/DomainDao.java</file>
+            <file>file:/C:/Users/Lenovo1/Documents/NetBeansProjects/POWWOW%2030-4-2017/POWWOW/src/java/dao/LinkLoginDao.java</file>
+            <file>file:/C:/Users/Lenovo1/Documents/NetBeansProjects/POWWOW%2030-4-2017/POWWOW/src/java/dao/RegisterStudentDao.java</file>
+            <file>file:/C:/Users/Lenovo1/Documents/NetBeansProjects/POWWOW%2030-4-2017/POWWOW/src/java/sendmail/SendMailSSL.java</file>
+            <file>file:/C:/Users/Lenovo1/Documents/NetBeansProjects/POWWOW%2030-4-2017/POWWOW/web/question-answer/Workspace_Page.jsp</file>
+            <file>file:/C:/Users/Lenovo1/Documents/NetBeansProjects/POWWOW%2030-4-2017/POWWOW/src/java/controller/LinkLoginController.java</file>
+            <file>file:/C:/Users/Lenovo1/Documents/NetBeansProjects/POWWOW%2030-4-2017/POWWOW/src/java/controller/questionanswercontroller/MyFeed.java</file>
+            <file>file:/C:/Users/Lenovo1/Documents/NetBeansProjects/POWWOW%2030-4-2017/POWWOW/web/question-answer/QuePage.jsp</file>
+            <file>file:/C:/Users/Lenovo1/Documents/NetBeansProjects/POWWOW%2030-4-2017/POWWOW/src/java/controller/VerifyUserController.java</file>
+            <file>file:/C:/Users/Lenovo1/Documents/NetBeansProjects/POWWOW%2030-4-2017/POWWOW/web/about%20us/aboutus.jsp</file>
+        </group>
+        <group/>
+    </open-files>
+</project-private>
